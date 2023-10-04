@@ -1,0 +1,21 @@
+body{
+    width: 700px;
+    height: 500px;
+    margin: 400px;;
+}
+
+div{
+    border: 2px solid black;
+    text-align:  center;
+}
+
+img{
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+.para{
+    font-size: 10px;
+    color: gray;
+    padding: 10px;
+}
